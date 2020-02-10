@@ -1,0 +1,77 @@
+body {
+    background-image: url(https://bit.ly/2S7SK7w);
+    background-repeat: no-repeat;
+    background-size:170% ;
+    
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-style: oblique;
+    text-underline-position: below;
+
+}
+h2 {
+    color: turquoise;
+    font-style: oblique;
+    text-align: center;
+}
+header {
+    font-style: normal;
+    text-align: center;
+    color: chocolate;
+    font-weight: bolder;   
+}
+#Happy{
+    background-color: blue;
+    background-origin: padding-box;
+    
+}
+.football p {
+    font-weight: bold;
+    color: brown;
+}
+body {
+    font-family: sans-serif;
+}
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    float: right;
+  }
+  /* Instagram */
+  .fa-instagram {
+    background: orange;
+    color: white;
+    float: right;
+  }
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  h5 {
+    color: white;
+    
+  }
+@media screen and 
