@@ -1,3 +1,6 @@
+HERE IS A LINK TO MY LIVE WEBSITE--> https://lkipruto6.github.io/project/
+
+
 MY PORTFOLIO
 THE AUTHORS NAME IS LINSY KIPRUTO
 The project entails and talks about my portfolio
